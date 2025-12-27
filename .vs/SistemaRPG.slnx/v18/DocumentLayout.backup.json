@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\sistemarpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\sistemarpg\\models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|solutionrelative:models\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\sistemarpg\\models\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|solutionrelative:models\\guerreiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\sistemarpg\\models\\icurador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|solutionrelative:models\\icurador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|c:\\users\\yago nascimento\\desktop\\faculdade\\sistemarpg\\models\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A92BDA92-E8CF-4AC9-9840-C41ABCFD7D3E}|SistemaRPG.csproj|solutionrelative:models\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICurador.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\ICurador.cs",
+              "RelativeDocumentMoniker": "Models\\ICurador.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\ICurador.cs",
+              "RelativeToolTip": "Models\\ICurador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T00:04:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\Mago.cs",
+              "RelativeDocumentMoniker": "Models\\Mago.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\Mago.cs",
+              "RelativeToolTip": "Models\\Mago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T00:03:03.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Guerreiro.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\Guerreiro.cs",
+              "RelativeDocumentMoniker": "Models\\Guerreiro.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\Guerreiro.cs",
+              "RelativeToolTip": "Models\\Guerreiro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T00:02:22.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\Personagem.cs",
+              "RelativeDocumentMoniker": "Models\\Personagem.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Models\\Personagem.cs",
+              "RelativeToolTip": "Models\\Personagem.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T22:59:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Yago Nascimento\\Desktop\\Faculdade\\SistemaRPG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T22:58:56.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

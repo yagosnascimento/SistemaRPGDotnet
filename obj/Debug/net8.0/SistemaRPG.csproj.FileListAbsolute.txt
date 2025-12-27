@@ -1,0 +1,14 @@
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\bin\Debug\net8.0\SistemaRPG.exe
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\bin\Debug\net8.0\SistemaRPG.deps.json
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\bin\Debug\net8.0\SistemaRPG.runtimeconfig.json
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\bin\Debug\net8.0\SistemaRPG.dll
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\bin\Debug\net8.0\SistemaRPG.pdb
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\SistemaRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\SistemaRPG.AssemblyInfoInputs.cache
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\SistemaRPG.AssemblyInfo.cs
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\SistemaRPG.csproj.CoreCompileInputs.cache
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\SistemaRPG.dll
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\refint\SistemaRPG.dll
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\SistemaRPG.pdb
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\SistemaRPG.genruntimeconfig.cache
+C:\Users\Yago Nascimento\Desktop\Faculdade\SistemaRPG\obj\Debug\net8.0\ref\SistemaRPG.dll
